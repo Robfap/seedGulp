@@ -1,0 +1,17 @@
+{
+  "name": "seed_gulp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "author": "rob",
+  "path": "app",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-usemin": "^0.3.21",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  }
+}

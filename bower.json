@@ -1,0 +1,8 @@
+{
+  "name": "gulp_seed",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "lodash": "2.4.1"
+  }
+}
