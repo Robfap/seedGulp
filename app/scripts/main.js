@@ -2,9 +2,9 @@
 import square from  './t2.js';
 
 var r = function(){
- let t = 4;
-  let c = square(t);
- console.log(c);
+ let t = 454;
+  let c = square(t + 2);
+ console.log(c + c);
 };
 
 r();
